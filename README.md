@@ -36,7 +36,7 @@ stm32morse follows the rules of Morse Code shown in the diagram above in which w
 | Dash | 600 |
 | Same letter | 200 |
 | Different letter | 600 |
-| Diffrerent duration | 1400 |
+| Different word | 1400 |
 
 <br/>
 
