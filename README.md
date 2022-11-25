@@ -62,3 +62,4 @@ of finding and owning an actual ST-LINK, STM32 ST-LINK Utility can be used to pr
 <br/>
 
 # References
+1. Understanding morse code: https://www.britannica.com/topic/Morse-Code
