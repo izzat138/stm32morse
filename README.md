@@ -34,9 +34,9 @@ stm32morse follows the rules of Morse Code shown in the diagram above in which w
 | --------------- | --------------- |
 | Dot | 200 |
 | Dash | 600 |
-| Same letter | 200 |
-| Different letter | 600 |
-| Different word | 1400 |
+| Same letter space | 200 |
+| Different letter space| 600 |
+| Different word space| 1400 |
 
 <br/>
 
