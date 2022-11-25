@@ -29,7 +29,7 @@ of varied lengths or analogous mechanical or visual signals, such as flashing li
 
 *Picture taken from [Wikipedia](https://en.wikipedia.org/wiki/Morse_code)*
 
-stm32morse follows the rules of Morse Code shown in the diagram above in which we are using 200ms for 1 unit. Shown in the following table is the duration for the morse that we implement in the stm32morse.
+stm32morse follows the rules of Morse Code shown in the diagram above in which we are using 200ms for 1 unit. Shown in the following table is the duration for the Morse Code that we implement in the stm32morse.
 | Duration | Time (ms) |
 | --------------- | --------------- |
 | Dot | 200 |
