@@ -2,10 +2,7 @@
 This repository documents the details of Morse Code Transmitter project on an STM32F103C8T6 MCU using STM32CubeIDE, an open-source C/C++ development platform 
 for STM32 microcontrollers and microprocessors.
 
-We are required to program an STM32 MCU using open-source STM32CubeIDE in C language, so that the MCU blinks with a set interval corresponding to English alphabets 
-in morse code. A C code is included in this repository for reference.
-
-stm32morse contains the project that blinks an LED in responds to morse code from GPIOD - PIN 13 on the STM32F103C8T6.
+In this project, we are required to transmit 3 different letters in Morse Code which represent 3 group members using the STM32. Since our group only consists of 2 members, we transmit two different letters in Morse Code repeatedly. We use the letters “AI” to represent our group members as the name of our first group member is Ashraf Aminin which starts with the letter “A” and the letter “I” for our second group member, Izzat. By using the STM32F103C8T6, stm32morse utilizes the onboard LED connected to the GPIOD - PIN 13 to transmit Morse Code. Even though we only need to transmit 2 letters, the project that we build supports 26 alphabets and 10 numerals to make it flexible. A C code is included in this repository for reference.
 
 <br/>
 
@@ -31,6 +28,13 @@ of varied lengths or analogous mechanical or visual signals, such as flashing li
 *Chart of the Morse code 26 letters and 10 numerals*
 
 *Picture taken from [Wikipedia](https://en.wikipedia.org/wiki/Morse_code)*
+
+stm32morse follows the rules of Morse Code shown in the diagram above in which we are using 200ms for 1 unit. Shown in the following table is the duration for the morse that we implement in the stm32morse.
+| Duration | Time (ms) |
+| --------------- | --------------- |
+| Dot | Row 1 Column 2 |
+| Dash | Row 2 Column 2 |
+|  | Row 3 Column 2 |
 
 <br/>
 
