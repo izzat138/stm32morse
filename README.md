@@ -8,20 +8,17 @@ in morse code. A C code is included in this repository for reference.
 stm32blinky contains the project that blinks an LED from GPIOD - PIN 13 on the STM32F103C8T6.
 
 <br/>
-<br/>
 
 ## Group Members (Driven Raven)
 1. Ashraf Aminin bin Arman Alim
 2. Izzat bin Idris
 
 <br/>
-<br/>
 
 ## Project Prerequisites
 1. STM32CubeIDE software
 2. STM32 MCU
 
-<br/>
 <br/>
 
 ## Understanding Morse Code 
