@@ -5,7 +5,7 @@ for STM32 microcontrollers and microprocessors.
 We are required to program an STM32 MCU using open-source STM32CubeIDE in C language, so that the MCU blinks with a set interval corresponding to English alphabets 
 in morse code. A C code is included in this repository for reference.
 
-stm32blinky contains the project that blinks an LED from GPIOD - PIN 13 on the STM32F103C8T6.
+stm32morse contains the project that blinks an LED in responds to morse code from GPIOD - PIN 13 on the STM32F103C8T6.
 
 <br/>
 
