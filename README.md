@@ -29,16 +29,15 @@ of varied lengths or analogous mechanical or visual signals, such as flashing li
 ![International_Morse_Code svg](https://user-images.githubusercontent.com/106621749/203897053-ebaad372-c052-4523-bc2b-d10e3b098975.png)
 
 *Chart of the Morse code 26 letters and 10 numerals*
+
 *Picture taken from [Wikipedia](https://en.wikipedia.org/wiki/Morse_code)*
 
-<br/>
 <br/>
 
 ## Project Procedures
 The procedures in this project is the exact same procedures done in this [repository](https://github.com/izzat138/stm32blinky) with the exception of the code 
 used to program the STM32 MCU.
 
-<br/>
 <br/>
 
 # Project Demo
